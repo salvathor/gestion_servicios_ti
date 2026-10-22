@@ -1,3 +1,5 @@
+# modules/incident_resolution.py
+
 class IncidentResolution:
   def __init__(self):
     self.incidents = []

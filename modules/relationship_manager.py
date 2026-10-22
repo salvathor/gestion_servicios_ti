@@ -1,3 +1,5 @@
+# modules/relationship_manager.py
+
 class RelationshipManager:
   def __init__(self):
     self.relationships = []
